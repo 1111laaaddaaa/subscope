@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Subdomain Enumerator and IP Validator
+Subdomain Enumerator and IP Validator created by Lada Slobodska and Claude
 
 A tool for discovering subdomains via crt.sh and validating their IP addresses
 against a defined scope.
