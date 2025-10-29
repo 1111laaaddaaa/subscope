@@ -86,7 +86,7 @@ Run enumerator interactively:
 python subscope.py -d domains.txt
 ```
 
-Non-interactive mode (no prompts) and perform IP validation:
+Non-interactive mode (no prompts):
 
 ```bash
 python subscope.py -d domains.txt --non-interactive --validate --scope scope.txt
