@@ -1,2 +1,2 @@
 # sub_enum
-Subscope is a command-line tool that automates subdomain enumeration and IP scope validation. Created for pentesters and other security researches.
+Sub_enum is a command-line tool that automates subdomain enumeration and IP scope validation. Created for pentesters and other security researches.
